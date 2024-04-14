@@ -22,4 +22,5 @@ Report file:
 - /Assignment 4/svyas44-analysis.docx
 
 Box Link: https://gatech.box.com/s/94ivywioosxtlf1io19vhd63swh36lmj
-Github Link: [https://github.com/vyassumit1994/cs-7641-Assignment-1.git](https://github.com/vyassumit1994/cs-7641/tree/main/Assignment%203)
+Github Link: https://github.com/vyassumit1994/cs-7641/tree/main/Assignment%204
+
